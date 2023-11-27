@@ -1,8 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)](https"//rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Reda</h1>
 
-keytool -genkey -v -keystore C:\Users\DELL\upload-keystore.jks -storetype JKS -keyalg RSA -keysize 2048 -validity 10000  -alias nissan
-
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Junior-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Android-Developer-green) ![](https://img.shields.io/badge/Java-Lover-yellowgreen) ![](https://img.shields.io/badge/Exp-1+yrs-red)
 
 - Software Engineer
@@ -46,6 +44,8 @@ You can register with simple few steps or login directly using your Google or Fa
 FAN CHAT gives coverage to the international championship as the World Cup 2022 in Qatar and other global football tournaments.
 
 <p><a href="https://play.google.com/store/apps/details?id=com.fan.fan" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/soccer-fanchat/id6444244207" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
 
 
 ### Gas Plus
